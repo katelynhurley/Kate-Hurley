@@ -1,2 +1,0 @@
-# Kate-Hurley
-Portfolio website
