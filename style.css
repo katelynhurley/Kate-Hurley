@@ -1,0 +1,43 @@
+body {
+    margin:0px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 100%;
+}
+
+#logo-container {
+    height: 210%;
+    width: 100%;
+    background-color: #f79959;
+}
+
+nav {
+    background-color: #f26e61;
+    display: flex;
+    justify-content: center;
+    height: 57px;
+    width: 100%;
+}
+
+ul{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+}
+
+li {
+    align-self: center;
+    list-style-type: none;
+    color: white;
+}
+
+#home {
+    width: 100%;
+    height: 800px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
