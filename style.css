@@ -49,12 +49,9 @@ li {
     color: black;
 }
 
-
-#portrait {
-    width: 282px;
-    height:350px;
-}
 #photo-info {
     margin-left: 500px;
 }
-
+#portrait {
+    margin-right: 500px;
+}
