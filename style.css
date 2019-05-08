@@ -30,6 +30,7 @@ body {
 
 nav {
     background-color:floralwhite;
+    background-color:#66bcaf;
     display: flex;
     justify-content: center;
     height: 50px;
@@ -41,16 +42,18 @@ ul {
     display: flex;
     justify-content: space-around;
     width: 100%;
+    color: #ffffff;
 }
 
 li {
     align-self: center;
     list-style-type: none;
-    color: black;
+    color: antiquewhite;
 }
 
 #photo-info {
     margin-left: 500px;
+    margin-right: 30px
 }
 
 #portrait {
@@ -60,7 +63,10 @@ li {
 #contact-text {
     margin-top: 100px;
     text-align: center;
+}
 
-
-
+#gallery {
+    margin-top: 70px;
+    margin-left:30px;
+    margin-right: 30px;
 }
