@@ -79,7 +79,7 @@ li {
     width: 33%;
     height: 33%;
     border: solid white 1px;
-    margin-top: 15px;
+
     display: flex;
 }
 
@@ -87,15 +87,16 @@ li {
     width: 33%;
     height: 33%;
     border: solid white 1px;
-    margin-top: 15px;
     display: flex;
+    margin-left: 20px;
 }
 
 #sweetjesus {
     width: 33%;
     height: 33%;
     border: solid white 1px;
-    margin-top: 15px;
+
+    margin-left: 20px;
     display: flex;
 }
 #row-two {
@@ -103,13 +104,14 @@ li {
     justify-content: row;
     margin-left: 20px;
     margin-right: 20px;
+    margin-top: 15px;
 }
 
 #falls2 {
    width: 33%;
     height: 33%;
     border: solid white 1px;
-    margin-top: 15px;
+
     display: flex;
 }
 
@@ -117,7 +119,8 @@ li {
    width: 33%;
     height: 33%;
     border: solid white 1px;
-    margin-top: 15px;
+
+    margin-left: 20px;
     display: flex;
 }
 
@@ -125,20 +128,21 @@ li {
    width: 33%;
     height: 33%;
     border: solid white 1px;
-    margin-top: 15px;
+
+    margin-left: 20px;
     display: flex;
 }
+/*
 #row-three {
     display: flex;
     justify-content: row;
-    margin-left: 20px;
-    margin-right: 20px;
 }
 #leaves {
     width: 33%;
     height: 33%;
     border: solid white 1px;
-    margin-top: 15px;
+    margin-top: 20px;
+    margin-left: 20px;
     display: flex;
 }
 
@@ -146,7 +150,8 @@ li {
     width: 33%;
     height: 33%;
     border: solid white 1px;
-    margin-top: 15px;
+    margin-top:  20px;
+    margin-left: 20px;
     display: flex;
 }
 
@@ -154,9 +159,11 @@ li {
     width: 33%;
     height: 33%;
     border: solid white 1px;
-    margin-top: 15px;
+    margin-top: 20px;
+    margin-left: 20px;
     display: flex;
 }
+*/
 
 #row-four {
     display: flex;
@@ -168,7 +175,7 @@ li {
    width: 33%;
     height: 33%;
     border: solid white 1px;
-    margin-top: 15px;
+   margin-top: 20px;
     display: flex;
 }
 
@@ -176,7 +183,8 @@ li {
    width: 33%;
     height: 33%;
     border: solid white 1px;
-    margin-top: 15px;
+    margin-top: 20px;
+    margin-left: 20px;
     display: flex;
 }
 
@@ -184,7 +192,8 @@ li {
     width: 33%;
     height: 33%;
     border: solid white 1px;
-    margin-top: 15px;
+    margin-top: 20px;
+    margin-left: 20px;
     display: flex;
 }
 
