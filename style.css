@@ -65,8 +65,127 @@ li {
     text-align: center;
 }
 
-#gallery {
+
+#row-one {
+    display: flex;
+    justify-content: row;
+    margin-left: 20px;
+    margin-right: 20px;
     margin-top: 70px;
-    margin-left:30px;
-    margin-right: 30px;
 }
+
+
+#falls {
+    width: 33%;
+    height: 33%;
+    border: solid white 1px;
+    margin-top: 15px;
+    display: flex;
+}
+
+#ferriswheel {
+    width: 33%;
+    height: 33%;
+    border: solid white 1px;
+    margin-top: 15px;
+    display: flex;
+}
+
+#sweetjesus {
+    width: 33%;
+    height: 33%;
+    border: solid white 1px;
+    margin-top: 15px;
+    display: flex;
+}
+#row-two {
+    display: flex;
+    justify-content: row;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+#falls2 {
+   width: 33%;
+    height: 33%;
+    border: solid white 1px;
+    margin-top: 15px;
+    display: flex;
+}
+
+#freddie{
+   width: 33%;
+    height: 33%;
+    border: solid white 1px;
+    margin-top: 15px;
+    display: flex;
+}
+
+#camera {
+   width: 33%;
+    height: 33%;
+    border: solid white 1px;
+    margin-top: 15px;
+    display: flex;
+}
+#row-three {
+    display: flex;
+    justify-content: row;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+#leaves {
+    width: 33%;
+    height: 33%;
+    border: solid white 1px;
+    margin-top: 15px;
+    display: flex;
+}
+
+#ferriswheel {
+    width: 33%;
+    height: 33%;
+    border: solid white 1px;
+    margin-top: 15px;
+    display: flex;
+}
+
+#lamppost {
+    width: 33%;
+    height: 33%;
+    border: solid white 1px;
+    margin-top: 15px;
+    display: flex;
+}
+
+#row-four {
+    display: flex;
+    justify-content: row;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+#eye {
+   width: 33%;
+    height: 33%;
+    border: solid white 1px;
+    margin-top: 15px;
+    display: flex;
+}
+
+#trafficlight {
+   width: 33%;
+    height: 33%;
+    border: solid white 1px;
+    margin-top: 15px;
+    display: flex;
+}
+
+#hand {
+    width: 33%;
+    height: 33%;
+    border: solid white 1px;
+    margin-top: 15px;
+    display: flex;
+}
+
+
