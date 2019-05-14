@@ -130,16 +130,17 @@ a {
     margin-left: 20px;
     display: flex;
 }
-/*
 #row-three {
     display: flex;
     justify-content: row;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 #leaves {
     width: 33%;
     height: 33%;
     border: solid white 1px;
-    margin-top: 20px;
+
     margin-left: 20px;
     display: flex;
 }
@@ -148,7 +149,7 @@ a {
     width: 33%;
     height: 33%;
     border: solid white 1px;
-    margin-top:  20px;
+
     margin-left: 20px;
     display: flex;
 }
@@ -161,7 +162,6 @@ a {
     margin-left: 20px;
     display: flex;
 }
-*/
 
 #row-four {
     display: flex;
