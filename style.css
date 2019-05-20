@@ -66,6 +66,9 @@ a {
 }
 
 
+/*ROW ONE STARTS*/
+
+
 #row-one {
     display: flex;
     justify-content: row;
@@ -99,6 +102,10 @@ a {
     margin-left: 20px;
     display: flex;
 }
+/*ROW ONE ENDS*/
+
+
+/*ROW TWO STARTS*/
 #row-two {
     display: flex;
     justify-content: row;
@@ -132,6 +139,10 @@ a {
     margin-left: 20px;
     display: flex;
 }
+/*ROW TWO ENDS*/
+
+
+/*ROW THREE STARTS*/
 #row-three {
     display: flex;
     justify-content: row;
@@ -164,7 +175,10 @@ a {
     margin-left: 20px;
     display: flex;
 }
+/*ROW THREE ENDS*/
 
+
+/*ROW FOUR STARTS*/
 #row-four {
     display: flex;
     justify-content: row;
@@ -196,6 +210,7 @@ a {
     margin-left: 20px;
     display: flex;
 }
+/*ROW FOUR ENDS*/
 
 #photo-info {
     display: flex;
