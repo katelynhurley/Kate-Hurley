@@ -256,140 +256,125 @@ a {
     transition-property: color;
     transition-duration: .5s;
     transition-delay: .2s;
+}
 
 /*__________________________________________*/
 /*  MEDIA STARTS  */
 /*__________________________________________*/
 
 
-@media only screen and (max-width: 700px){
+@media (max-width: 700px) and (max-width: 800px){
 
     body {
         background-color: lightseagreen;
     }
+
 #row-one {
     display: flex;
-    justify-content: column;
-    margin-left: 20px;
-    margin-right: 20px;
-    margin-top: 70px;
+    margin-left: 15px;
+    margin-right: 15px;
     flex-direction: column;
+    align-self: center;
 }
 
-         #falls {
+         .falls {
             width: 100%;
             height: 100%;
-            border: solid white 1px;
             display: flex;
 
         }
 
-        #ferriswheel {
+        .ferriswheel {
             width: 100%;
             height: 100%;
-            border: solid white 1px;
-            margin-left: 20px;
             display: flex;
+
 
         }
 
-        #sweetjesus {
+        .sweetjesus {
             width: 100%;
             height: 100%;
-            border: solid white 1px;
-            margin-left: 20px;
             display: flex;
+
 }
 
 #row-two {
     display: flex;
-    justify-content: column;
-    margin-left: 20px;
-    margin-right: 20px;
-    margin-top: 15px;
+    margin-left: 15px;
+    margin-right: 15px;
     flex-direction: column;
+    align-self: center;
 }
 
-        #falls2 {
+        .falls2 {
             width: 100%;
             height: 100%;
-            border: solid white 1px;
             display: flex;
+
         }
 
-        #freddie{
+        .freddie{
             width: 100%;
             height: 100%;
-            border: solid white 1px;
-            margin-left: 20px;
             display: flex;
+
 }
-        #camera {
-        width: 100%;
-        height: 100%;
-        border: solid white 1px;
-        margin-left: 20px;
-        display: flex;
+        .camera {
+            width: 100%;
+            height: 100%;
+            display: flex;
+
 }
 #row-three {
     display: flex;
-    justify-content: column;
-    margin-left: 20px;
-    margin-right: 20px;
+    margin-left: 15px;
+    margin-right: 15px;
+    flex-direction: column;
+    align-self: center;
 }
-        #leaves {
+        .leaves {
             width: 100%;
             height: 100%;
-            border: solid white 1px;
-            margin-left: 20px;
             display: flex;
+
 }
-        #ferriswheel {
+        .ferriswheel {
             width: 100%;
             height: 100%;
-            border: solid white 1px;
-            margin-left: 20px;
             display: flex;
+
 }
-        #lamppost {
-        width: 100%;
-        height: 100%;
-        border: solid white 1px;
-        margin-top: 20px;
-        margin-left: 20px;
-        display: flex;
+        .lamppost {
+            width: 100%;
+            height: 100%;
+            display: flex;
+
 }
 #row-four {
     display: flex;
-    justify-content: column;
-    margin-left: 20px;
-    margin-right: 20px;
+    margin-left: 15px;
+    margin-right: 15px;
+    flex-direction: column;
+    align-self: center;
 }
-#eye {
-  width: 100%;
-    height: 100%;
-    border: solid white 1px;
-   margin-top: 20px;
-    display: flex;
-    justify-content: column;
+         #eye {
+            width: 100%;
+            height: 100%;
+            display: flex;
+
 }
-#trafficlight {
-   width: 100%;
-    height: 100%;
-    border: solid white 1px;
-    margin-top: 20px;
-    margin-left: 20px;
-    display: flex;
-    justify-content: column;
+        #trafficlight {
+            width: 100%;
+            height: 100%;
+            display: flex;
+
 }
-#hand {
-    width: 100%;
-    height: 100%;
-    border: solid white 1px;
-    margin-top: 20px;
-    margin-left: 20px;
-    display: flex;
-    justify-content: column;
+        #hand {
+            width: 100%;
+            height: 100%;
+            display: flex;
+
 }
 
 
